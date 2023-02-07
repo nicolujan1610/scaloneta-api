@@ -1,0 +1,11 @@
+###
+POST http://localhost:3001/api/argentina/
+Content-Type: application/json
+
+{
+    "name": "Angel Di Maria",
+    "position": "Delantero",
+    "edad": 36,
+    "dorsal": 11,
+    "titles": ["World Cup", "Copa America", "Finalissima", "Sub-20 Olimpics"]
+}
